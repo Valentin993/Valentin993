@@ -2,7 +2,7 @@
 
 
 
- >### I'm Web developer _(frontend)_ and  _UX-UI_  designer
+ >### I'm Web Developer _(frontend)_ and  _UX-UI_  Designer
 >
 >- **_GitHub_**
 >- **_Visual Studio Code_**
