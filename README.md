@@ -1,8 +1,8 @@
 # Hey, I’m Valentin Maystorovski! 👋 
-### I’m a student at Beam Institute of Technology: BIT
 
 
- >### I'm currently learning web development _(frontend)_ and  _UX-UI_  design
+
+ >### I'm Web developer _(frontend)_ and  _UX-UI_  designer
 >
 >- **_GitHub_**
 >- **_Visual Studio Code_**
