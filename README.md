@@ -10,6 +10,7 @@
 >- **_CSS_**
 >- **_JavaScript_**
 >- **_Figma_**
+>- **_Next.js_**
 
 
 
